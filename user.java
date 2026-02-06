@@ -1,6 +1,1 @@
-hello world
-  hi
-  how
-  are you
-  anil
-  
+hello anil 
